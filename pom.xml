@@ -12,6 +12,7 @@
 	<artifactId>JarvisBoot</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
+
 	<name>JarvisBoot</name>
 	<description>Refactor jarvis to Spring Boot app</description>
 
@@ -35,6 +36,7 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+
 
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
